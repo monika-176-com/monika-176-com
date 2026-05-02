@@ -6,26 +6,57 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=monika-176-com&theme=dark&hide_border=false&no-bg=true&margin-w=4)
 
-
 <h3 align="left">Connect with me:</h3>
 
 <table>
   <tr>
-    <td><a href="https://linkedin.com/in/monika-jalla-199848293"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a></td>
-    
-    <td><a href="https://kaggle.com/jallamonika"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"></a></td>
-    
-    <td><a href="https://instagram.com/monika_reddy_76"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a></td>
-    
-    <td><a href="https://www.codechef.com/users/brace_trick_55"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"></a></td>
-    
-    <td><a href="https://www.hackerrank.com/@jallamonika06"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"></a></td>
-    
-    <td><a href="https://codeforces.com/profile/monika_jalla"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"></a></td>
-    
-    <td><a href="https://www.leetcode.com/monika_jalla"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"></a></td>
-    
-    <td><a href="https://auth.geeksforgeeks.org/user/jallamoe5ma"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"></a></td>
+    <td>
+      <a href="https://linkedin.com/in/monika-jalla-199848293">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">
+      </a>
+    </td>
+
+    <td>
+      <a href="https://kaggle.com/jallamonika">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40">
+      </a>
+    </td>
+
+    <td>
+      <a href="https://instagram.com/monika_reddy_76">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40">
+      </a>
+    </td>
+
+    <td>
+      <a href="https://www.codechef.com/users/brace_trick_55">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40">
+      </a>
+    </td>
+
+    <td>
+      <a href="https://www.hackerrank.com/@jallamonika06">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40">
+      </a>
+    </td>
+
+    <td>
+      <a href="https://codeforces.com/profile/monika_jalla">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40">
+      </a>
+    </td>
+
+    <td>
+      <a href="https://www.leetcode.com/monika_jalla">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40">
+      </a>
+    </td>
+
+    <td>
+      <a href="https://auth.geeksforgeeks.org/user/jallamoe5ma">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40">
+      </a>
+    </td>
   </tr>
 </table>
 
