@@ -7,15 +7,31 @@
 ![](https://github-profile-trophy.vercel.app/?username=monika-176-com&theme=dark&hide_border=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/monika-jalla-199848293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monika-jalla-199848293" height="30" width="40" /></a>
-<a href="https://kaggle.com/jallamonika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jallamonika" height="30" width="40" /></a>
-<a href="https://instagram.com/monika_reddy_76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monika_reddy_76" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/brace_trick_55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="brace_trick_55" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jallamonika06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jallamonika06" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/monika_jalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="monika_jalla" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/monika_jalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monika_jalla" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jallamoe5ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jallamoe5ma" height="30" width="40" /></a>
+<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <a href="https://linkedin.com/in/monika-jalla-199848293" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/jallamonika" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/monika_reddy_76" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/brace_trick_55" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/@jallamonika06" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/monika_jalla" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/monika_jalla" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/jallamoe5ma" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+  </a>
 </p>
 
 ### 💻 Tech Stack:
